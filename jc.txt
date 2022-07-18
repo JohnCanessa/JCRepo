@@ -1,1 +1,4 @@
+Title: jc.txt
+
 This is a new document generated on GitHub.
+Added a title on my local copy.
